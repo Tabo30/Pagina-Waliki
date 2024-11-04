@@ -1,0 +1,164 @@
+.fam-y-rel {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.fam-y-rel .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1200px;
+  height: 1920px;
+}
+
+.fam-y-rel .overlap {
+  position: relative;
+  height: 4352px;
+  top: -1472px;
+}
+
+.fam-y-rel .group {
+  position: absolute;
+  width: 1200px;
+  height: 1920px;
+  top: 2432px;
+  left: 0;
+}
+
+.fam-y-rel .overlap-group {
+  position: relative;
+  height: 1920px;
+}
+
+.fam-y-rel .fondo-blanco-oscuro {
+  position: absolute;
+  width: 1200px;
+  height: 1920px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.fam-y-rel .fondo-oscuro {
+  position: absolute;
+  width: 1200px;
+  height: 960px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.fam-y-rel .rectangle {
+  position: absolute;
+  width: 875px;
+  height: 150px;
+  top: 0;
+  left: 163px;
+  background-color: #ffffff;
+}
+
+.fam-y-rel .div {
+  position: absolute;
+  width: 1200px;
+  height: 2390px;
+  top: 0;
+  left: 0;
+}
+
+.fam-y-rel .overlap-2 {
+  position: relative;
+  height: 2390px;
+}
+
+.fam-y-rel .vector {
+  position: absolute;
+  width: 1200px;
+  height: 320px;
+  top: 1472px;
+  left: 0;
+}
+
+.fam-y-rel .mask-group {
+  position: absolute;
+  width: 1200px;
+  height: 918px;
+  top: 1472px;
+  left: 0;
+}
+
+.fam-y-rel .overlap-group-wrapper {
+  position: absolute;
+  width: 1002px;
+  height: 300px;
+  top: 2732px;
+  left: 100px;
+}
+
+.fam-y-rel .wila-masinaka-la-wrapper {
+  position: relative;
+  width: 1006px;
+  height: 306px;
+  background-image: url(./img/vector-68.svg);
+  background-size: 100% 100%;
+}
+
+.fam-y-rel .wila-masinaka-la {
+  position: absolute;
+  width: 1000px;
+  height: 300px;
+  top: 25px;
+  left: 0;
+  text-shadow: 4px 4px 4px #00000040;
+  font-family: "Gabarito", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 100px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 150px;
+}
+
+.fam-y-rel .text-wrapper {
+  font-weight: 600;
+}
+
+.fam-y-rel .span {
+  font-size: 60px;
+  line-height: 90px;
+  position: relative;
+  bottom: 40px;
+}
+
+.fam-y-rel .img {
+  position: absolute;
+  width: 841px;
+  height: 206px;
+  top: 3112px;
+  left: 183px;
+}
+
+.fam-y-rel .llama {
+  position: absolute;
+  width: 645px;
+  height: 750px;
+  top: 1668px;
+  left: 250px;
+}
+
+.fam-y-rel .textura-arco {
+  height: 340px;
+  top: 1472px;
+  position: absolute;
+  width: 1200px;
+  left: 0;
+}
+
+.fam-y-rel .textura-arco-2 {
+  height: 360px;
+  top: 2332px;
+  position: absolute;
+  width: 1200px;
+  left: 0;
+}

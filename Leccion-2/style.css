@@ -1,0 +1,219 @@
+.partes-cuerpo {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.partes-cuerpo .overlap-wrapper {
+  background-color: #ffffff;
+  width: 1200px;
+  height: 1920px;
+}
+
+.partes-cuerpo .overlap {
+  position: relative;
+  height: 1920px;
+  background-image: url(./img/fondo-oscuro-3x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.partes-cuerpo .overlap-group {
+  position: absolute;
+  width: 1002px;
+  height: 1488px;
+  top: 80px;
+  left: 100px;
+}
+
+.partes-cuerpo .nio {
+  position: absolute;
+  width: 682px;
+  height: 1488px;
+  top: 0;
+  left: 163px;
+}
+
+.partes-cuerpo .vector {
+  position: absolute;
+  width: 158px;
+  height: 45px;
+  top: 98px;
+  left: 504px;
+}
+
+.partes-cuerpo .img {
+  position: absolute;
+  width: 125px;
+  height: 163px;
+  top: 528px;
+  left: 534px;
+}
+
+.partes-cuerpo .vector-2 {
+  position: absolute;
+  width: 204px;
+  height: 81px;
+  top: 645px;
+  left: 296px;
+}
+
+.partes-cuerpo .vector-3 {
+  position: absolute;
+  width: 90px;
+  height: 165px;
+  top: 1071px;
+  left: 174px;
+}
+
+.partes-cuerpo .vector-4 {
+  position: absolute;
+  width: 186px;
+  height: 516px;
+  top: 590px;
+  left: 517px;
+}
+
+.partes-cuerpo .vector-5 {
+  position: absolute;
+  width: 268px;
+  height: 114px;
+  top: 283px;
+  left: 340px;
+}
+
+.partes-cuerpo .group {
+  position: absolute;
+  width: 352px;
+  height: 200px;
+  top: 0;
+  left: 650px;
+}
+
+.partes-cuerpo .p-iqi-cabeza-wrapper {
+  position: relative;
+  width: 356px;
+  height: 206px;
+  background-image: url(./img/vector-68.svg);
+  background-size: 100% 100%;
+}
+
+.partes-cuerpo .div {
+  position: absolute;
+  width: 350px;
+  height: 200px;
+  top: 0;
+  left: 0;
+  text-shadow: 4px 4px 4px #00000040;
+  font-family: "Gabarito", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 60px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 108px;
+}
+
+.partes-cuerpo .text-wrapper {
+  position: relative;
+  font-weight: 600;
+  top: 25px;
+
+}
+
+.partes-cuerpo .span {
+  position: relative;
+  font-size: 30px;
+  line-height: 54px;
+  bottom: 25px;
+}
+
+.partes-cuerpo .overlap-group-wrapper {
+  position: absolute;
+  width: 352px;
+  height: 200px;
+  top: 200px;
+  left: 0;
+}
+
+.partes-cuerpo .nayra-ojo-wrapper {
+  position: relative;
+  width: 356px;
+  height: 206px;
+  background-image: url(./img/vector-68-1.svg);
+  background-size: 100% 100%;
+}
+
+.partes-cuerpo .group-2 {
+  position: absolute;
+  width: 352px;
+  height: 200px;
+  top: 600px;
+  left: 650px;
+}
+
+.partes-cuerpo .laka-boca-wrapper {
+  position: relative;
+  width: 356px;
+  height: 206px;
+  background-image: url(./img/vector-68-2.svg);
+  background-size: 100% 100%;
+}
+
+.partes-cuerpo .group-3 {
+  position: absolute;
+  width: 352px;
+  height: 200px;
+  top: 676px;
+  left: 0;
+}
+
+.partes-cuerpo .kunka-cuello-wrapper {
+  position: relative;
+  width: 356px;
+  height: 206px;
+  background-image: url(./img/vector-68-3.svg);
+  background-size: 100% 100%;
+}
+
+.partes-cuerpo .group-4 {
+  position: absolute;
+  width: 352px;
+  height: 200px;
+  top: 1045px;
+  left: 650px;
+}
+
+.partes-cuerpo .ajanu-cara-wrapper {
+  position: relative;
+  width: 356px;
+  height: 206px;
+  background-image: url(./img/vector-68-4.svg);
+  background-size: 100% 100%;
+}
+
+.partes-cuerpo .group-5 {
+  position: absolute;
+  width: 352px;
+  height: 200px;
+  top: 1201px;
+  left: 0;
+}
+
+.partes-cuerpo .ampara-mano-wrapper {
+  position: relative;
+  width: 356px;
+  height: 206px;
+  background-image: url(./img/vector-68-5.svg);
+  background-size: 100% 100%;
+}
+
+.partes-cuerpo .group-6 {
+  position: absolute;
+  width: 841px;
+  height: 206px;
+  top: 1640px;
+  left: 182px;
+}

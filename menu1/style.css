@@ -1,0 +1,109 @@
+.men-de-temas-listo {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.men-de-temas-listo .overlap-group-wrapper {
+  background-color: #ffffff;
+  width: 1200px;
+  height: 1920px;
+}
+
+.men-de-temas-listo .overlap-group {
+  position: relative;
+  height: 1920px;
+  background-image: url(./img/fondo-oscuro-3x.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.men-de-temas-listo .barra-de-tareas {
+  position: absolute;
+  width: 1200px;
+  height: 295px;
+  top: 1625px;
+  left: 0;
+}
+
+.men-de-temas-listo .group {
+  top: 978px;
+  left: 40px;
+  position: absolute;
+  width: 556px;
+  height: 279px;
+}
+
+.men-de-temas-listo .img {
+  top: 340px;
+  left: 40px;
+  position: absolute;
+  width: 556px;
+  height: 279px;
+}
+
+.men-de-temas-listo .group-2 {
+  top: 340px;
+  left: 610px;
+  position: absolute;
+  width: 556px;
+  height: 279px;
+}
+
+.men-de-temas-listo .group-3 {
+  top: 659px;
+  left: 40px;
+  position: absolute;
+  width: 556px;
+  height: 279px;
+}
+
+.men-de-temas-listo .group-4 {
+  top: 659px;
+  left: 610px;
+  position: absolute;
+  width: 556px;
+  height: 279px;
+}
+
+.men-de-temas-listo .group-5 {
+  top: 978px;
+  left: 610px;
+  position: absolute;
+  width: 556px;
+  height: 279px;
+}
+
+.men-de-temas-listo .group-6 {
+  top: 1297px;
+  left: 40px;
+  position: absolute;
+  width: 556px;
+  height: 279px;
+}
+
+.men-de-temas-listo .group-7 {
+  top: 1297px;
+  left: 610px;
+  position: absolute;
+  width: 556px;
+  height: 279px;
+}
+
+.men-de-temas-listo .text-wrapper {
+  position: absolute;
+  width: 835px;
+  height: 150px;
+  top: 119px;
+  left: 183px;
+  font-family: "Gabarito", Helvetica;
+  font-weight: 900;
+  color: #000000;
+  font-size: 200px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
